@@ -40,6 +40,12 @@
 
 ## 🔥 💻 Featured Projects
 
+### ✈️ AeroSlot Scheduler
+- Advanced airport slot management system
+- Built using **C++ + Python + AI**
+
+---
+
 ### 🧠 Image Captioning System
 - Generates captions for visually impaired users  
 - Built using **CNN + NLP + Flask + TTS**
@@ -55,6 +61,20 @@
 ### 🏥 SymptoGuard AI
 - AI-based system for symptom analysis  
 - Provides early insights using AI logic  
+
+---
+
+### 💳 NovaExpense
+- Modern expense management app focusing on performance and clean UI
+- Built using **TypeScript + React**
+
+---
+
+## 🏆 📜 Certificates
+
+- **ProgressionSchool Certified Agentic AI Workshop** (2025)
+- **Deloitte Australia - Data Analytics Job Simulation** (2025)
+- **Learn Azure DevOps CI/CD Pipelines** (2026)
 
 ---
 
