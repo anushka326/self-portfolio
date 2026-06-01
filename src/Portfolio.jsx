@@ -94,7 +94,7 @@ export default function Portfolio() {
   }, [hasStarted, currentText, isDeleting, currentPhraseIndex, typingSpeed, phrases]);
 
   return (
-    <div className="bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-slate-900 via-slate-950 to-black text-white min-h-screen relative font-sans selection:bg-cyan-500/30 selection:text-cyan-200 cursor-none">
+    <div className="bg-[radial-gradient(circle_at_top_left,_rgba(56,189,248,0.22),_transparent_22%),radial-gradient(circle_at_bottom_right,_rgba(168,85,247,0.18),_transparent_18%),linear-gradient(180deg,_#020617_0%,_#07121f_40%,_#090a12_100%)] text-white min-h-screen relative font-sans selection:bg-cyan-500/30 selection:text-cyan-200 cursor-none">
 
       <CustomCursor />
 
